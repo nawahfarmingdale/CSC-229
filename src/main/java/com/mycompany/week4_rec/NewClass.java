@@ -7,6 +7,10 @@ package com.mycompany.week4_rec;
 
 public class NewClass {
     
+    public static void main(String[] args) {
+        
+    }
+    
     void countDown(int num)
 
  {
