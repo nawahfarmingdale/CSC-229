@@ -6,10 +6,16 @@ package com.mycompany.week4_rec;
 
 
 public class NewClass {
-    
+    /**
+     * 
+     * @param args 
+     */
     public static void main(String[] args) {
+        /*
+        here is the algorithm for finding ,,,,,
+        */
         
-        System.out.println("Hamza");
+        System.out.println("Hamza");// printing my name
         
     }
     
